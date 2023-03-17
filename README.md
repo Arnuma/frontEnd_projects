@@ -11,5 +11,5 @@
 <h2>Меню<h2>
 
   <ul list-style-type = "disk">
-    <li><a href="">Project - 1<img src="https://simpleicons.org/icons/javascript.svg"/></a></li>
+    <li><a href="">Project - 1<img src="https://simpleicons.org/icons/javascript.svg" height="20"/></a></li>
   </ul>
