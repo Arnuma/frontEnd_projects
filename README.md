@@ -11,7 +11,7 @@
 <h2>Меню<h2>
 
   <ul list-style-type = "disk">
-    <li><a href="https://github.com/Arnuma/frontEnd_projects/tree/project_1">Project - 1  <img src="https://simpleicons.org/icons/javascript.svg" height="20"/><img src="https://simpleicons.org/icons/html5.svg" height="20"/></a></li>
-   <li><a href="https://github.com/Arnuma/counter">Counter<img src="https://simpleicons.org/icons/javascript.svg" height="20"/><img src="https://simpleicons.org/icons/html5.svg" height="20"/></a></li>
+    <li><a href="https://github.com/Arnuma/frontEnd_projects/tree/project_1">Project - 1  ------  <img src="https://simpleicons.org/icons/javascript.svg" height="20"/><img src="https://simpleicons.org/icons/html5.svg" height="20"/></a></li>
+   <li><a href="https://github.com/Arnuma/counter">Counter  ------  <img src="https://simpleicons.org/icons/javascript.svg" height="20"/><img src="https://simpleicons.org/icons/html5.svg" height="20"/></a></li>
   </ul>
 
